@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#4f46e5"/>
+  <!-- Receipt -->
+  <g transform="translate(146 118)">
+    <path d="M20 0 h180 a20 20 0 0 1 20 20 v236 l-30 -18 -30 18 -30 -18 -30 18 -30 -18 -30 18 -30 -18 V20 A20 20 0 0 1 20 0 Z"
+          fill="#ffffff"/>
+    <rect x="44" y="52" width="132" height="20" rx="10" fill="#4f46e5"/>
+    <rect x="44" y="100" width="132" height="16" rx="8" fill="#c7d2fe"/>
+    <rect x="44" y="140" width="92" height="16" rx="8" fill="#c7d2fe"/>
+    <rect x="44" y="180" width="132" height="16" rx="8" fill="#a5b4fc"/>
+  </g>
+</svg>

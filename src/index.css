@@ -1,0 +1,4 @@
+/* Global styling is handled by MUI CssBaseline + theme. Only print tweaks remain. */
+@media print {
+  @page { margin: 12mm; }
+}
